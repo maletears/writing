@@ -1,4 +1,4 @@
-Copyright © 2022 by Mac <macnasioga@outlook.com>
+Copyright © 2022 by Mac < macnasioga@outlook.com >
 
 All rights reserved.
 
