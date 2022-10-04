@@ -1,4 +1,6 @@
-**Copyright © 2022 by Mac** `github.com/maletears`
+## **Copyright © 2022 by Mac**
+
+`github.com/maletears`
 
 **All rights reserved.**
 
@@ -6,11 +8,11 @@
 
 [![Twitter](https://img.shields.io/badge/twitter-macnasioga-9cf)](https://twitter.com/macnasioga) [![Instagram](https://img.shields.io/badge/instagram-macnasioga-ff69b4)](https://instagram.com/macnasioga)
 
-##You May
+## You May
 - Share links to the works inside this repository.
 - Pull quotes from the works inside this repository, with attribution, for the purpose of reviewing or otherwise speaking about said works.
 
-##You May Not
+## You May Not
 - Redistribute the works inside this repository without attribution, for commercial purposes, and/or in full without the writer's permission.
 - Translate the works inside this repository without the permission of the writer.
 - Remix or adapt any of the works inside this repository without the writer's permission.
